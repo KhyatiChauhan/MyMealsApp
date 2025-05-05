@@ -1,17 +1,19 @@
-# meals
+# MyMealsApp - Discover & Manage Your Favorite Recipes
 
-A new Flutter project.
+A mobile application built with Flutter and Dart that allows users to browse various meal categories, explore detailed recipe information, manage their favorite meals, and filter the displayed recipes based on their preferences. This project demonstrates effective navigation and management of multi-screen applications using Flutter.
 
-## Getting Started
+## Key Features
 
-This project is a starting point for a Flutter application.
+* **Browse Meal Categories:** Easily navigate through different categories of meals to discover new recipes.
+* **View Meal Details:** Access comprehensive information for each meal, including ingredients and step-by-step preparation instructions.
+* **Manage Favorites:** Mark your favorite meals to easily access them later in a dedicated "Favorites" screen.
+* **Filtering:** Utilize a side drawer to access a filtering screen, allowing you to customize the displayed meals based on various criteria (e.g., dietary restrictions, ingredients).
+* **Seamless Navigation:** Enjoy a smooth and intuitive user experience with efficient navigation between different screens using TabBars and a side drawer.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# MyMealsApp
+## Technologies Used
+
+* **Flutter:** A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+* **Dart:** The programming language used to build Flutter applications.
+
